@@ -1,4 +1,4 @@
-# Chrome Jsonview Darcula Theme
+# Chrome JSONView Darcula Theme
 
 Do you feel stress on your eyes after long hours of coding? Do you get sore eyes and headaches and by the bright computer screen? Have you already tried all the usual workarounds such as switching to XML or YAML? 
 
