@@ -4,7 +4,7 @@ Do you feel stress on your eyes after long hours of coding? Do you get sore eyes
 
 Sorry, we can't help you with your career choice. Perhaps you should become a manager or get a job where you can get out more? 
 
-However if you are looking for a darcula theme for your json viewer. A ying to your yang, a ping to your pong - you've come to the right place! Just follow the steps below to get going.
+However if you are looking for a darcula theme for your json viewer. a ying to your yang, a ping to your pong - you've come to the right place! Just follow the steps below to get going.
 
 _This project is not officially endorsed by Dracula_ 
 
