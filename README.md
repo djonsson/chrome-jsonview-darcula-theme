@@ -1,10 +1,10 @@
 # Chrome JSONView Darcula Theme
 
-Do you feel stress on your eyes after long hours of coding? Do you get sore eyes and headaches and by the bright computer screen? Have you already tried all the usual workarounds such as switching to XML or YAML? 
+Do you feel stress on your eyes after long hours of coding? Do you get sore eyes and headaches by the bright computer screen? Have you already tried all the usual workarounds such as switching to XML or YAML? 
 
 Sorry, we can't help you with your career choice. Perhaps you should become a manager or get a job where you can get out more? 
 
-However if you are looking for a darcula theme for your json viewer. a ying to your yang, a ping to your pong - you've come to the right place! Just follow the steps below to get going.
+However if you are looking for a darcula theme for your json viewer. A ying to your yang, a ping to your pong - you've come to the right place! Just follow the steps below to get going.
 
 _This project is not officially endorsed by Dracula_ 
 
@@ -18,4 +18,4 @@ _This project is not officially endorsed by Dracula_
 ## Preview
 ![alt text][logo]
 
-[logo]: ../master/src/darcula-preview.png "Logo Title Text 2"
+[logo]: ../master/src/darcula-preview.png "Preview"
